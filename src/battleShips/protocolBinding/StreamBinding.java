@@ -1,5 +1,5 @@
 package battleShips.protocolBinding;
-
+//test
 public class StreamBinding
 {
     public static final int DICE = 0;
