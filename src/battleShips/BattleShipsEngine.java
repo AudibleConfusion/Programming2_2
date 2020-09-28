@@ -1,6 +1,5 @@
 package battleShips;
 
-import javax.management.BadAttributeValueExpException;
 import java.io.IOException;
 import java.util.Random;
 
